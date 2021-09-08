@@ -11,5 +11,6 @@
 | Временные ряды (Time series analysis) | Прогнозирование поступления средств на 14 дней вперёд | Pandas, Numpy, Sklearn, Statsmodels, Matplotlib, Seaborn |
 | Машинное обучение для текстов (NLP) | Определение токсичности комментариев  | Pandas, Numpy, Nltk, Sklearn, TF-IDF, Word2Vec |
 | Статистический анализ данных | Выявление закономерностей, влияюших на успешность компьютерных игр  | Pandas, Numpy, Plotly, Scipy, Matplotlib |
+| Определение температуры для выплавки стали | Построение модели, предсказывающей температуру стали  | Pandas, Numpy, Matplotlib, Seaborn, Catboost, Lightgbm |
 
 
